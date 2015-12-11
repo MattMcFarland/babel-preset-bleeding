@@ -14,7 +14,9 @@
     "hot loader"
   ],
   "files": [
-    "index.js", "LICENSE", "README.md"
+    "index.js",
+    "LICENSE",
+    "README.md"
   ],
   "homepage": "https://babeljs.io/",
   "license": "MIT",
@@ -46,5 +48,17 @@
     "babel-plugin-syntax-jsx": "*",
     "babel-plugin-transform-react-display-name": "*",
     "babel-preset-stage-0": "*"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MattMcFarland/babel-preset-bleeding.git"
+  },
+  "author": "Matt A McFarland",
+  "bugs": {
+    "url": "https://github.com/MattMcFarland/babel-preset-bleeding/issues"
   }
 }
